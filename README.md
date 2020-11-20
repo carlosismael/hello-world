@@ -1,5 +1,2 @@
-# hello-world
-this is the beging of a long road to self develoment
-
-
-idk why but it seems that it isn't working at all
+# Backend Challenges boilerplate - package.json
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
